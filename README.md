@@ -172,4 +172,28 @@ C:\Users\seb\Documents\GitHub\a_test [master]> rm .\README.md
 
 ### `yo` scaffolding
 
+- Open git shell
+- Go to your project directory.
+- Type `yo webapp`
+- Ideally here you want to configure Google Chrome as your default browser. (Or Firefox)
+- Type `grunt server` and watch the show.
+- If it is working `Control+c` to terminate program.
+- In Github gui commit change and sync.
+- Check that all the file appear on the Github website.
+
+### Make live changes
+
+- Open git shell, go to your project dir and start `grunt server`
+- Open your project dir in Sublime Text.
+
+Try to change the text in the following files:
+
+- `app/index.html`
+- `app/scripts/hello.coffee`
+- `app/styles/main.scss` (style)
+
+The web page should be updating live. U can use it as a basis to experiment with html, CoffeeScript, css.
+
+
+
 
