@@ -89,3 +89,54 @@ coffee>
 - There is a nice screencast [here](http://screencasts.org/episodes/introduction-to-coffeescript) (watch the beginning, then skip to 6:40).
 - [here](http://js2coffee.org/) is an online converter between CoffeeScript and JavaScript.  
 
+## Step 5: Yeoman
+
+Yeoman site [here](http://yeoman.io/).
+
+### install
+
+- In Github shell type:
+
+```
+npm install -g yo
+
+npm install -g generator-webapp
+```
+
+### Basic shell command
+
+- Show current dir: `pwd`
+- Show current dir content: `ls`
+- Change dir: `cd <DIR>`
+- Go up one dir: `cd ..`
+- Delete a file: `rm <FILE>` 
+
+### Exercise using command above
+
+(Note u can use <TAB> to autocomplete in Github Shell)
+
+- Go to your project and delete the readme file. For example:
+
+```
+C:\Users\seb\Documents\GitHub> cd .\a_test
+C:\Users\seb\Documents\GitHub\a_test [master]> cd ..
+C:\Users\seb\Documents\GitHub> cd .\a_test
+C:\Users\seb\Documents\GitHub\a_test [master]> ls
+
+
+    Directory: C:\Users\seb\Documents\GitHub\a_test
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+-a---         6/19/2013  12:33 PM        505 .gitattributes
+-a---         6/19/2013  12:33 PM       2858 .gitignore
+-a---         7/27/2013   5:52 PM         27 README.md
+
+
+C:\Users\seb\Documents\GitHub\a_test [master]> rm .\README.md
+```
+
+- Using Github Gui commit changes.
+- Check on Github site that the file has disapeared.
+
