@@ -119,6 +119,10 @@ gem update --system
 gem install compass
 ```
 
+- Check that compass is working:
+
+In git shell type `compass -v`.
+
 ### install Yeoman
 
 - In Github shell type:
