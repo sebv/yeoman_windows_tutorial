@@ -83,4 +83,7 @@ undefined
 coffee>
 ```
 
-### ``
+### Have a quick look at CoffeeScript syntax and equivalent JavaScript
+
+- Doc [here](http://coffeescript.org/)
+- There is a nice screencast [here](http://screencasts.org/episodes/introduction-to-coffeescript) (watch the begginning, then skip to 6:40).
