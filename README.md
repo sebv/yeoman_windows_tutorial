@@ -1,4 +1,4 @@
-Phil Crash Course
+Yeoman (Windows) Beginner Tutorial.
 =========
 
 # Setup
@@ -192,7 +192,7 @@ Try to change the text in the following files:
 - `app/scripts/hello.coffee`
 - `app/styles/main.scss` (style)
 
-The web page should be updating live. U can use it as a basis to experiment with html, CoffeeScript, css.
+The web page should be updating live. You can use it as a basis to experiment with html, CoffeeScript, css/scss.
 
 
 
