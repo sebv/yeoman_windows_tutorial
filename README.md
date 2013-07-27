@@ -50,4 +50,13 @@ undefined
 undefined
 >
 ```
-- open  
+
+### `npm` command
+
+This is the package manager for Node.js.
+
+- In the Github shell type `npm -v`
+- If it doesn't work close and reopen the Github shell
+ 
+
+
