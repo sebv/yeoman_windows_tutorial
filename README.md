@@ -35,7 +35,7 @@ My New Project
 
 ### `node` command
 
-- Open the git shell.
+- Open the Git shell.
 - Type `node`.
 - Then try to do as follow:
 
@@ -93,7 +93,33 @@ coffee>
 
 Yeoman site [here](http://yeoman.io/).
 
-### install
+### Install dependencies
+
+- Download and install Ruby [here](http://rubyinstaller.org/downloads/)
+- Add the ruby path to your user PATH 
+
+(Note: You can get the Ruby path by opening `Start command prompt with Ruby` in the start menu,
+and typing `PATH`. It should be something like: `C:\Ruby200-x64\bin`. You can then add it to the path
+in `Control Panel\User Accounts and Family Safety\User Accounts` -> `Change my environment variables` ->
+ `User varibales.`)
+
+- Reopen git shell and checks that `ruby` and `gem` commands: 
+
+```
+C:\Users\seb\Documents\GitHub> ruby -v
+ruby 2.0.0p247 (2013-06-27) [x64-mingw32]
+C:\Users\seb\Documents\GitHub> gem -v
+2.0.3
+```
+
+- In git shell, install [Compass](http://compass-style.org/):
+
+```
+gem update --system
+gem install compass
+```
+
+### install Yeoman
 
 - In Github shell type:
 
@@ -111,7 +137,7 @@ npm install -g generator-webapp
 - Go up one dir: `cd ..`
 - Delete a file: `rm <FILE>` 
 
-### Exercise using command above
+### Exercise using commands above
 
 (Note u can use <TAB> to autocomplete in Github Shell)
 
@@ -139,4 +165,7 @@ C:\Users\seb\Documents\GitHub\a_test [master]> rm .\README.md
 
 - Using Github Gui commit changes.
 - Check on Github site that the file has disapeared.
+
+### `yo` scaffolding
+
 
