@@ -1,4 +1,4 @@
-Yeoman (Windows) Beginner Tutorial.
+Yeoman (Windows) Beginner Tutorial
 =========
 
 # Setup
