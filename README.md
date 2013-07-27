@@ -174,7 +174,7 @@ C:\Users\seb\Documents\GitHub\a_test [master]> rm .\README.md
 
 - Open git shell
 - Go to your project directory.
-- Type `yo webapp`
+- Type `yo webapp` (Choose all default options).
 - Ideally here you want to configure Google Chrome as your default browser. (Or Firefox)
 - Type `grunt server` and watch the show.
 - If it is working `Control+c` to terminate program.
