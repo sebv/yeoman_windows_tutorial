@@ -20,6 +20,7 @@ Yeoman (Windows) Beginner Tutorial
 - Create a repository on github
 - Open dir with Sublime Text (Should be in My Documents/Github)
 - Create a README file with this inside
+- 
 ```
 My New Project
 =========
