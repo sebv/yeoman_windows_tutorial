@@ -181,7 +181,7 @@ C:\Users\seb\Documents\GitHub\a_test [master]> rm .\README.md
 - Ideally here you want to configure Google Chrome as your default browser. (Or Firefox)
 - Type `grunt server` and watch the show.
 - If it is working `Control+c` to terminate program.
-- In Github gui commit change and sync.
+- In Github gui, commit and sync.
 - Check that all the file appear on the Github website.
 
 ### Make live changes
