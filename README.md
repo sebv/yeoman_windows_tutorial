@@ -50,6 +50,7 @@ undefined
 undefined
 >
 ```
+- Control+c twice to quit.
 
 ### `npm` command
 
@@ -58,5 +59,28 @@ This is the package manager for Node.js.
 - In the Github shell type `npm -v`
 - If it doesn't work close and reopen the Github shell
  
+## Step 4: CoffeeScript
 
+This is an improved syntax for Javascript. It's good to learn this first and then progressively switch to Javascript.
 
+### Install
+- Open Github shell
+- Type `npm install -g coffee-script` (`npm install` to install package, and `-g` means globally.)
+
+### `coffee` command
+
+- In Github shel type `coffee`.
+- Then do as follow:
+
+```
+coffee> a=1
+1
+coffee> a=a+1
+2
+coffee> console.log a
+2
+undefined
+coffee>
+```
+
+### ``
