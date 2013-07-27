@@ -1,7 +1,7 @@
 Phil Crash Course
 =========
 
-#Setup
+# Setup
 
 ## Step 1: Sublime Text
 
@@ -25,5 +25,29 @@ My New Project
 ```
 - In the Github GUI go to the project, commit all changes and publish.
 - Go to the GitHub website, you should see your project and the readme file.
-- There is a nice tutorial [here](https://help.github.com/articles/create-a-repo) if these instructions are not enough.
+- Nice tutorial [here](https://help.github.com/articles/create-a-repo) if these instructions are not enough.
 
+## Step 3: Node.js
+
+### Install
+
+- Download [here](http://nodejs.org/) and install.
+
+### `node` command
+
+- Open the git shell.
+- Type `node`.
+- Then try to do as follow:
+
+```
+C:\Users\seb\Documents\GitHub> node
+> var a=1;
+undefined
+> a=a+1;
+2
+> console.log(a);
+2
+undefined
+>
+```
+- open  
