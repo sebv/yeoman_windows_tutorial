@@ -5,7 +5,7 @@ Yeoman (Windows) Beginner Tutorial
 
 ## Step 1: Sublime Text
 
-- Download [here](http://www.sublimetext.com/2) and install(No need to buy license).
+- Download [here](http://www.sublimetext.com/2) and install(No need to buy license if just experimenting).
 
 ## Step 2: git
 
