@@ -20,11 +20,12 @@ Yeoman (Windows) Beginner Tutorial
 - Create a repository on github
 - Open dir with Sublime Text (Should be in My Documents/Github)
 - Create a README file with this inside
-- 
+
 ```
 My New Project
 =========
 ```
+
 - In the Github GUI go to the project, commit all changes and publish.
 - Go to the GitHub website, you should see your project and the readme file.
 - Nice tutorial [here](https://help.github.com/articles/create-a-repo) if these instructions are not enough.
