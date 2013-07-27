@@ -9,12 +9,13 @@ Yeoman (Windows) Beginner Tutorial.
 
 ## Step 2: git
 
-### install
+### Install
+
 - Create a [GitHub](https://github.com/) account.
 - Download [here](http://windows.github.com/) and install.
 - Open the github gui and log in.
 
-### exercise
+### Exercise
 
 - Create a repository on github
 - Open dir with Sublime Text (Should be in My Documents/Github)
