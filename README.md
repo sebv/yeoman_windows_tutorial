@@ -1,4 +1,4 @@
-phil_demo
+Phil Crash Course
 =========
 
 #Setup
